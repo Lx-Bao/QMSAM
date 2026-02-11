@@ -14,6 +14,4 @@ This repo is an official implementation of the *QM-SAM*.
 ### 3. Testing
 ### 4. Evaluation
 
-- We provide [saliency maps]() of our QM-SAM on AM-XD dataset.
-
 ## Citation
